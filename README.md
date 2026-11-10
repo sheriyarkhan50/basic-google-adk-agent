@@ -246,7 +246,7 @@ By completing this project, I am practicing how to:
 **Your Name**  
 Full Stack Developer | Learning AI Engineering
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@sheriyarkhan50](https://github.com/sheriyarkhan50)
 - LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/)
 
 ---
