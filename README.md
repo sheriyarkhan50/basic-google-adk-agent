@@ -247,7 +247,7 @@ By completing this project, I am practicing how to:
 Full Stack Developer | Learning AI Engineering
 
 - GitHub: [@sheriyarkhan50](https://github.com/sheriyarkhan50)
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/)
+- LinkedIn: [muhammad-sheriyar-khan-36669814b](https://www.linkedin.com/in/muhammad-sheriyar-khan-36669814b/)
 
 ---
 
